@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-11-16 06:38:50 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 06:40:10 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 06:43:01 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:08:06 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:40:58 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:41:17 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:42:00 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:42:41 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:57:38 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:58:08 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 07:59:49 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 08:06:52 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:12:31 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:15:51 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:27:03 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:51:45 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:52:00 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:52:22 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:52:50 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:53:04 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:53:21 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:53:47 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:54:45 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:54:58 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:56:11 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 11:56:29 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 13:10:15 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 13:31:08 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 13:31:32 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-11-16 16:29:02 --> 404 Page Not Found: Theme/plugins

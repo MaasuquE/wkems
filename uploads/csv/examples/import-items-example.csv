@@ -1,0 +1,6 @@
+Item Name,Category Name,SKU,HSN,Unit Name,Alert Quantity,Brand Name,Lot Number,Expire Date,Purchase Price,Sales Price,Opening Stock,Barcode
+Item Name 1,Category 1,1111,HSN1,BOX,5,Brand 1,11,1/1/2019,100,120,10,BAR123
+Item Name 2,Category 2,2222,HSN2,PIECES,5,Brand 2,22,1/1/2019,200,220,10,BAR125
+Item Name 3,Category 3,3333,HSN3,PIECES,5,Brand 3,33,1/1/2019,300,320,10,BAR126
+Item Name 4,Category 4,4444,HSN4,PIECES,5,Brand 4,44,1/1/2019,400,420,10,BAR127
+Item Name 5,Category 5,5555,HSN5,PIECES,5,Brand 5,55,1/1/2019,500,520,10,BAR128

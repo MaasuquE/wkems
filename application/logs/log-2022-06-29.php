@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-29 06:49:23 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 06:52:57 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 08:30:46 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 08:31:07 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 08:38:09 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 09:48:18 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 09:49:09 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 09:57:57 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 09:58:44 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 10:00:20 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 10:01:59 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 10:04:37 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 10:15:20 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 10:18:48 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 10:19:35 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 10:19:55 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 12:04:07 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 12:04:43 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 12:05:05 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 12:05:26 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 12:06:02 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 12:06:31 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 14:05:43 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 14:07:58 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 14:23:46 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 14:31:05 --> 404 Page Not Found: Theme/plugins
+ERROR - 2022-06-29 14:35:05 --> 404 Page Not Found: Theme/plugins

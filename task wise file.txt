@@ -1,0 +1,38 @@
+D:\xampp\htdocs\softpos\application\core\MY_Controller.php
+D:\xampp\htdocs\softpos\application\helpers\custom_helper.php
+D:\xampp\htdocs\softpos\application\views\sales.php
+
+Remove tax
+D:\xampp\htdocs\softpos\application\controllers\Items.php
+D:\xampp\htdocs\softpos\application\views\items.php
+D:\xampp\htdocs\softpos\theme\js\items.js
+
+
+
+Servises
+D:\xampp\htdocs\softpos\application\views\sidebar.php
+D:\xampp\htdocs\softpos\application\controllers\Services.php
+D:\xampp\htdocs\softpos\application\models\Services_model.php
+D:\xampp\htdocs\softpos\application\views\services-view.php
+D:\xampp\htdocs\softpos\application\views\services.php
+D:\xampp\htdocs\softpos\application\language\English\English_lang.php
+D:\xampp\htdocs\softpos\application\models\Roles_model.php
+D:\xampp\htdocs\softpos\application\views\role.php
+D:\xampp\htdocs\softpos\theme\dist\css\custom.css
+D:\xampp\htdocs\softpos\application\controllers\Sales.php
+D:\xampp\htdocs\softpos\application\models\Sales_model.php
+D:\xampp\htdocs\softpos\application\views\report-services.php
+D:\xampp\htdocs\softpos\application\controllers\Reports.php
+D:\xampp\htdocs\softpos\application\models\Reports_model.php
+
+
+D:\xampp\htdocs\softpos\theme\js\sales_for_modal.js
+D:\xampp\htdocs\softpos\theme\js\services.js
+
+
+Site settings 
+D:\xampp\htdocs\softpos\application\models\Site_model.php
+D:\xampp\htdocs\softpos\application\views\site-settings.php
+
+service_init ccolumn added on db_company table 
+
